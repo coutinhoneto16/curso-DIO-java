@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade Carro/Atividade Carro.iml" filepath="$PROJECT_DIR$/Atividade Carro/Atividade Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade Conta Bancária.iml" filepath="$PROJECT_DIR$/Atividade Conta Bancária.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade PetShop/Atividade PetShop.iml" filepath="$PROJECT_DIR$/Atividade PetShop/Atividade PetShop.iml" />
+    </modules>
+  </component>
+</project>
